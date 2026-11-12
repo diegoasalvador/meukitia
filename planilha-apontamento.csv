@@ -1,0 +1,34 @@
+Data,Chamado,Tipo,Modalidade,Setor,Usuario,Descricao do Problema,Resolucao,Hora Inicio,Hora Fim,Horas Gastas,Status
+12/11/2026,001,Hardware,Presencial,RH,Maria Silva,Impressora HP LaserJet com papel travado no rolo interno,Removido papel travado, testado 10 impressões e liberado uso,08:00,09:00,1,Resolvido
+12/11/2026,002,Rede,Remoto,Financeiro,João Pereira,Computador sem acesso à rede após atualização do Windows,Reconfigurado adaptador de rede e executado flush DNS,09:05,10:00,1,Resolvido
+12/11/2026,003,Software,Presencial,Comercial,Ana Rodrigues,Instalação do Microsoft Office 365 em notebook novo,Office instalado e ativado com licença corporativa,10:05,11:00,1,Resolvido
+12/11/2026,004,Hardware,Presencial,Almoxarifado,Carlos Mendes,Mouse sem resposta confirmado defeito em teste com outro PC,Substituído por mouse reserva e solicitado equipamento novo,11:05,12:00,1,Resolvido
+12/11/2026,005,Software,Remoto,Jurídico,Fernanda Costa,Adobe Acrobat travando ao abrir PDFs acima de 10MB,Atualizado para última versão e realizada limpeza de cache,13:00,14:00,1,Resolvido
+12/11/2026,006,Rede,Remoto,Diretoria,Roberto Lima,VPN corporativa não conecta fora da empresa,Reconfigurado cliente VPN e renovado certificado digital,14:05,15:00,1,Resolvido
+12/11/2026,007,Hardware,Presencial,Atendimento,Patrícia Souza,Monitor exibindo tela preta após suspensão do sistema,Atualizado driver de vídeo e ajustada configuração de energia,15:05,16:00,1,Resolvido
+12/11/2026,008,Software,Remoto,TI,Lucas Oliveira,Antivírus corporativo desatualizado bloqueando sistema,Forçada atualização de definições e aplicada whitelist,16:05,17:00,1,Resolvido
+12/11/2026,009,Impressora,Remoto,Contabilidade,Beatriz Santos,Impressora em rede offline com fila travada em 15 jobs,Reiniciado serviço de spooler e fila de impressão limpa,08:00,09:00,1,Resolvido
+12/11/2026,010,Hardware,Presencial,Compras,Marcelo Ferreira,Teclado com teclas travando por derramamento de café,Teclado substituído por reserva e equipamento higienizado,09:05,10:00,1,Resolvido
+12/11/2026,011,Sistema,Presencial,RH,Juliana Alves,Sistema de ponto eletrônico não reconhece digital do usuário,Driver biométrico reinstalado e digital recadastrada,10:05,11:00,1,Resolvido
+12/11/2026,012,Rede,Remoto,Financeiro,Eduardo Martins,Lentidão extrema na rede ao acessar pasta compartilhada,Identificado loop no switch e porta problemática desabilitada,11:05,12:00,1,Resolvido
+12/11/2026,013,Software,Remoto,Comercial,Camila Nunes,CRM da empresa travando na tela de relatórios,Cache limpo e banco de dados local desfragmentado,13:00,14:00,1,Resolvido
+12/11/2026,014,Hardware,Presencial,Logística,Alex Carvalho,Notebook não funciona sem tomada - bateria sem carga,Encaminhado para troca de bateria junto ao fornecedor,14:05,15:00,1,Encaminhado
+12/11/2026,015,Acesso,Remoto,Jurídico,Renata Gomes,Usuário bloqueado no AD após tentativas erradas de senha,Conta desbloqueada no AD e enviada senha temporária,15:05,16:00,1,Resolvido
+12/11/2026,016,Software,Remoto,Administrativo,Thiago Barbosa,Excel travando ao abrir planilhas com macros habilitadas,Office reparado e macro reativada nas configurações de segurança,16:05,17:00,1,Resolvido
+12/11/2026,017,Rede,Remoto,Atendimento,Larissa Melo,Wi-Fi conectado mas sem internet no notebook,IP estático conflitante corrigido para configuração DHCP,08:00,09:00,1,Resolvido
+12/11/2026,018,Hardware,Presencial,TI,Fábio Araújo,Estação de trabalho não liga e sem sinal de POST,Fonte de alimentação substituída por unidade reserva,09:05,10:00,1,Resolvido
+12/11/2026,019,Software,Remoto,Contabilidade,Mônica Dias,TOTVS Protheus com erro ao tentar emitir nota fiscal,DLL atualizada e serviço reiniciado no servidor de aplicação,10:05,11:00,1,Resolvido
+12/11/2026,020,Impressora,Presencial,Compras,André Vieira,Impressora jato de tinta com cores desbotadas nas impressões,Cabeça de impressão limpa e cartucho colorido substituído,11:05,12:00,1,Resolvido
+12/11/2026,021,Acesso,Remoto,Diretoria,Priscila Monteiro,E-mail corporativo não sincronizando no celular do usuário,Exchange reconfigurado no Outlook Mobile e 2FA reativado,13:00,14:00,1,Resolvido
+12/11/2026,022,Software,Remoto,Logística,Gustavo Ramos,Sistema de rastreamento de frota não abre após atualização,Rollback da atualização e versão estável reinstalada,14:05,15:00,1,Resolvido
+12/11/2026,023,Hardware,Presencial,Administrativo,Vanessa Castro,Webcam não reconhecida no Teams e Zoom após atualização,Driver reinstalado e permissões de câmera ajustadas no Windows,15:05,16:00,1,Resolvido
+12/11/2026,024,Rede,Remoto,RH,Rafael Cunha,Impressora de rede sumiu do mapeamento após reinicialização,IP fixo configurado na impressora e remapeada nos computadores,16:05,17:00,1,Resolvido
+12/11/2026,025,Software,Remoto,Financeiro,Isabela Prado,Power BI Desktop não conecta à fonte de dados interna,Credenciais do gateway atualizadas e conexão restaurada,08:00,09:00,1,Resolvido
+12/11/2026,026,Hardware,Presencial,Comercial,Henrique Lopes,Leitor de código de barras USB parando de funcionar,Testado em outra porta USB e driver reinstalado com sucesso,09:05,10:00,1,Resolvido
+12/11/2026,027,Sistema,Remoto,Atendimento,Tatiane Rocha,Windows Update travado em 0% há 3 dias sem progresso,Serviço WUAUSERV reiniciado e cache de atualização limpo,10:05,11:00,1,Resolvido
+12/11/2026,028,Software,Presencial,Jurídico,Rodrigo Figueiredo,Certificado digital A3 não reconhecido no navegador,Driver do token atualizado e certificado revalidado no ICP-Brasil,11:05,12:00,1,Resolvido
+12/11/2026,029,Hardware,Presencial,Contabilidade,Aline Teixeira,HD externo não aparece no explorador de arquivos do Windows,Testado em outro PC e recuperado via Testdisk após formatação,13:00,14:00,1,Resolvido
+12/11/2026,030,Rede,Remoto,Compras,Bruno Medeiros,Ramal VoIP sem tom de discagem após queda de energia,Ramal reiniciado no servidor Asterisk e codec reconfigurado,14:05,15:00,1,Resolvido
+12/11/2026,031,Software,Remoto,Logística,Letícia Freitas,Teams não abre apresentando tela branca infinita,Cache do Teams limpo na pasta AppData e aplicativo reinstalado,15:05,16:00,1,Resolvido
+12/11/2026,032,Acesso,Remoto,Diretoria,Marcos Cavalcanti,Pasta compartilhada sem permissão após migração de servidor,Permissões NTFS reconfiguradas no novo servidor de arquivos,16:05,17:00,1,Resolvido
+
